@@ -1,0 +1,15 @@
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.csproj.AssemblyReference.cache
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.AssemblyInfoInputs.cache
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.AssemblyInfo.cs
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.csproj.CoreCompileInputs.cache
+/Users/eduardlevitov/homewk.seminar /zadach.sum/bin/Debug/net6.0/zadach.sum
+/Users/eduardlevitov/homewk.seminar /zadach.sum/bin/Debug/net6.0/zadach.sum.deps.json
+/Users/eduardlevitov/homewk.seminar /zadach.sum/bin/Debug/net6.0/zadach.sum.runtimeconfig.json
+/Users/eduardlevitov/homewk.seminar /zadach.sum/bin/Debug/net6.0/zadach.sum.dll
+/Users/eduardlevitov/homewk.seminar /zadach.sum/bin/Debug/net6.0/zadach.sum.pdb
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.dll
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/refint/zadach.sum.dll
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.pdb
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/zadach.sum.genruntimeconfig.cache
+/Users/eduardlevitov/homewk.seminar /zadach.sum/obj/Debug/net6.0/ref/zadach.sum.dll

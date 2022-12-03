@@ -1,0 +1,15 @@
+/Users/eduardlevitov/homewk.seminar /zadacha_2/bin/Debug/net6.0/zadacha_2
+/Users/eduardlevitov/homewk.seminar /zadacha_2/bin/Debug/net6.0/zadacha_2.deps.json
+/Users/eduardlevitov/homewk.seminar /zadacha_2/bin/Debug/net6.0/zadacha_2.runtimeconfig.json
+/Users/eduardlevitov/homewk.seminar /zadacha_2/bin/Debug/net6.0/zadacha_2.dll
+/Users/eduardlevitov/homewk.seminar /zadacha_2/bin/Debug/net6.0/zadacha_2.pdb
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.csproj.AssemblyReference.cache
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.AssemblyInfoInputs.cache
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.AssemblyInfo.cs
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.csproj.CoreCompileInputs.cache
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.dll
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/refint/zadacha_2.dll
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.pdb
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/zadacha_2.genruntimeconfig.cache
+/Users/eduardlevitov/homewk.seminar /zadacha_2/obj/Debug/net6.0/ref/zadacha_2.dll

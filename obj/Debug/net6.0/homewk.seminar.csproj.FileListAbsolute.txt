@@ -1,0 +1,5 @@
+/Users/eduardlevitov/homewk.seminar /obj/Debug/net6.0/homewk.seminar.csproj.AssemblyReference.cache
+/Users/eduardlevitov/homewk.seminar /obj/Debug/net6.0/homewk.seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardlevitov/homewk.seminar /obj/Debug/net6.0/homewk.seminar.AssemblyInfoInputs.cache
+/Users/eduardlevitov/homewk.seminar /obj/Debug/net6.0/homewk.seminar.AssemblyInfo.cs
+/Users/eduardlevitov/homewk.seminar /obj/Debug/net6.0/homewk.seminar.csproj.CoreCompileInputs.cache
